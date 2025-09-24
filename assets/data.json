@@ -1,0 +1,47 @@
+{
+  "hero": {
+    "quote": "Szczęście to nie pensja, nie prestiż, nie metraż.\nTo kontrola nad własnym życiem.",
+    "author": "Morgan Housel, Psychologia pieniędzy",
+    "lead": "Weź udział w bezpłatnej konsultacji testowej. To tylko 1h – może wystarczy, by coś zobaczyć inaczej.",
+    "cta": "Zobacz tematy"
+  },
+  "testInfo": {
+    "heading": "Czym są testy Valivio?",
+    "body": "Valivio to projekt łączący psychologię, finanse i kierunek zawodowy. Zanim oficjalnie wystartuje, szukam 10–15 osób, które wezmą udział w testowej wersji konsultacji 1:1. Spotkanie trwa 60 minut, odbywa się online, jest bezpłatne.\n\nNie sprzedaję nic – to autentyczna rozmowa rozwojowa. W zamian proszę o feedback lub opinię. To tyle."
+  },
+  "tematy": [
+    {
+      "title": "Zarabiam, ale nie mam spokoju",
+      "desc": "Niby wszystko masz: dochód, mieszkanie, może rodzinę. Ale nie masz spokoju. Nie umiesz odpoczywać. Masz wrażenie, że coś Ci ucieka.\nTo nie musi tak wyglądać. Weź udział w testowej rozmowie – bezpłatnie. Może to będzie pierwszy moment prawdziwej ulgi.",
+      "cta": "Zapisz się"
+    },
+    {
+      "title": "Wypalenie zawodowe",
+      "desc": "Czujesz, że Twoja praca Cię wyczerpuje? Masz dość, ale nie wiesz, co dalej? To nie musi być jeszcze kryzys – może to właśnie moment, by coś zmienić.\nPorozmawiajmy – bez zobowiązań, w ramach testów Valivio.",
+      "cta": "Zapisz się"
+    },
+    {
+      "title": "Finanse w związku",
+      "desc": "Nie zgadzacie się na co wydawać? Kłótnie o pieniądze, kredyt, dzieci? Zobacz, jak rozmawiać i planować wspólnie.\nZapraszam na bezpłatną, testową konsultację – spokojnie i merytorycznie.",
+      "cta": "Zapisz się"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy to coaching albo terapia?",
+      "a": "Nie. To test metody rozwojowej łączącej psychologię, finanse i planowanie. Bez diagnoz, bez etykiet."
+    },
+    {
+      "q": "Czy to coś kosztuje?",
+      "a": "Nie. To bezpłatna rozmowa testowa – nie prowadzę jeszcze działalności."
+    },
+    {
+      "q": "Czy mogę się nie zakwalifikować?",
+      "a": "Tak. Mam ograniczoną pulę godzin i wybieram osoby, które najlepiej pasują do testowego celu."
+    },
+    {
+      "q": "Co stanie się po konsultacji?",
+      "a": "Poproszę Cię o krótką opinię. Być może zaproszę Cię do udziału w dalszych testach (3–5 spotkań)."
+    }
+  ]
+}
